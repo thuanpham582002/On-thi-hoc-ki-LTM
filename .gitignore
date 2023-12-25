@@ -36,3 +36,10 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/src/main/java/org/example/ws/b963/Server/nbproject/private/
+/src/main/java/org/example/ws/b963/Server/build/
+/src/main/java/org/example/ws/b963/Server/target/
+/src/main/java/org/example/ws/b963/Server1/target/
+/src/main/java/org/example/ws/b963/WebApplication1/nbproject/private/
+/src/main/java/org/example/ws/b963/WebApplication1/build/
+/src/main/java/org/example/ws/b963/Client/target/
