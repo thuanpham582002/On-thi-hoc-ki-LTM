@@ -43,8 +43,11 @@ public class MyServer {
                     return;
                 }
 
-                String arr = generateString(10);
+                String arr = generateString(100);
+                System.out.println(arr);
                 byteOut.write(arr);
+                byteOut.newLine();
+                byteOut.flush();
                 message = byteIn.readLine();
                 System.out.println(message);
                 connection.close();

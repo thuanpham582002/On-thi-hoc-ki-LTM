@@ -37,6 +37,7 @@ public class Client {
         }
 
         writer.write(result);
+        writer.newLine();
         writer.flush();
         // get first element and last- 1 and last element in set
 

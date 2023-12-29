@@ -15,7 +15,7 @@ public class Server {
             System.out.println("Server is running...");
         } catch (Exception e) {
             e.printStackTrace();
-        }
+        }  
     }
 
 }
